@@ -1,10 +1,10 @@
 # final-project-skeleton
 
-    * Team Name: 
-    * Team Members: 
-    * Github Repository URL: 
+    * Team Name: UPenn Fire Department
+    * Team Members: Oliver Hendrych, Isaac Gray   
+    * Github Repository URL: https://github.com/ese3500/UPenn-Fired-Department
     * Github Pages Website URL: [for final submission]
-    * Description of hardware: (embedded hardware, laptop, etc) 
+    * Description of hardware: (embedded hardware, laptop, etc) ATMEGA328PB, ESP32 Feather, Ultrasonic sensor, Infared Sensor, Servo Motor, LEDs, Buzzer
 
 ## Final Project Proposal
 
